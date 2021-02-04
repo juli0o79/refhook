@@ -1,2 +1,2 @@
 # refhook
-Um repositório para o estudo do hook useRef
+Um repositório para estudo de hooks e interação entre os componentes
